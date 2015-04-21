@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
-Built-By: Francisco
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: ProjectCoto
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.coyote
 Build-Jdk: 1.7.0_13
+Built-By: Francisco
 Created-By: Maven Integration for Eclipse
 
